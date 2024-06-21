@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: "ado-to-oci"
+pool: 
   vmImage: ubuntu-latest
 
 steps:
